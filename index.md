@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+# Emil Osmanbegovic
+## Visual artist & web developer from Serbia
+
+- description
+- contact, cv
+
+## Active projects
