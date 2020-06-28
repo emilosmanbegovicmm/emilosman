@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'CenturyRegular';
+  src: "/assets/fonts/century_schoolbook_regular.ttf";
+}
+
+$century-regular: "CenturyRegular", serif;
+
+body {
+  font-family: $century-regular;
+}

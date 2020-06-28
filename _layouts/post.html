@@ -25,7 +25,17 @@ layout: default
         {% endfor %}
       {%- endif -%}</p>
 
-      {{page.website}}
+      <div class="row">
+        <div class="col-12">
+          <img src="/assets/images/{{page.image}}"/>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-12">
+          {{page.website}}
+        </div>
+      </div>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
