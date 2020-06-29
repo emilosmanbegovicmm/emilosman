@@ -4,7 +4,7 @@ permalink: /cv/
 ---
 
 ## Ruby on Rails & JavaScript developer
-![profile picture](https://github.com/emilosman/emil-cv/raw/master/profile.jpg)  
+![profile picture](/assets/images/profile.jpg)  
 Born in 1992.  
 Residing in Novi Sad, Serbia.  
 Email: [emilosmanbegovic@gmail.com](mailto:emilosmanbegovic@gmail.com)  
