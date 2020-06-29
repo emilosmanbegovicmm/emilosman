@@ -6,6 +6,7 @@ categories: project
 image: 'exocortex.jpg'
 website: ''
 source: ''
+permalink: /exocortex/
 ---
 
 An archive repository of notes, articles and drafts.

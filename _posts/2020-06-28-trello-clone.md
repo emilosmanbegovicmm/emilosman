@@ -7,6 +7,7 @@ image: 'trello-clone.jpg'
 video: 'trello-clone.mp4'
 website: ''
 source: ''
+permalink: /trello-clone/
 ---
 
 [[Source code]](https://github.com/emilosman/trello-clone)

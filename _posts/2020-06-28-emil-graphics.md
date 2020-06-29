@@ -6,6 +6,7 @@ categories: project
 image: 'emil-graphics.jpg'
 video: 'emil-graphics.mp4'
 source: ''
+permalink: /emil-graphics/
 ---
 
 [[Website]](https://emil.graphics)
