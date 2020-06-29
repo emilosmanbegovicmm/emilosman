@@ -10,4 +10,4 @@ source: ''
 [[Website]](https://emil.graphics)
 
 A portfolio of visual art.  
-Made with Ruby on Rails, includes a webshop with PayPal integration.
+Made with Ruby on Rails and includes a webshop with PayPal integration.
