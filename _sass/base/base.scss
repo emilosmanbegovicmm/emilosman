@@ -1,10 +1,74 @@
 @font-face {
   font-family: 'CenturyRegular';
-  src: "/assets/fonts/century_schoolbook_regular.ttf";
+  src: url("/assets/fonts/century_schoolbook_regular.ttf");
 }
 
 $century-regular: "CenturyRegular", serif;
+$hover-brightness: brightness(66%);
+
+@mixin image-hover-brightness {
+  transition: filter 0.250s;
+  &:hover {
+    -webkit-filter: $hover-brightness;
+    filter: $hover-brightness;
+  }
+}
 
 body {
   font-family: $century-regular;
+  background-color: blue;
+  color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: yellow;
+}
+
+.c-hover {
+  @include image-hover-brightness;
+}
+
+.c-shadow {
+  -webkit-box-shadow: 0px 2px 4px 1px rgba(0,0,0,0.66);
+     -moz-box-shadow: 0px 2px 4px 1px rgba(0,0,0,0.66);
+          box-shadow: 0px 2px 4px 1px rgba(0,0,0,0.66);
+}
+
+.c-hero__tile {
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  height: 40vw;
+  max-height: 490px;
+  @media (max-width: 600px) {
+    height: 80vw;
+  }
+}
+
+.c-hero__tile__label {
+  position: absolute;
+  bottom: 0;
+  background: black;
+  color: yellow;
+  max-width: 50%;
+  z-index: 1;
+  @media (max-width: 1024px) {
+    max-width: 100%;
+  }
+  &:hover {
+    .c-info-strip__read-bio {
+      opacity: 1;
+    }
+  }
+}
+
+.c-hero__tile__image {
+  display: flex;
+  width: 100%;
+  transition: filter 0.250s;
+  img {
+    width: 100%;
+    object-fit: cover;
+    object-position: 50% 50%;
+  }
 }
