@@ -20,7 +20,7 @@ layout: default
             <div class="c-hero__tile__image">
               {%- if page.video -%}
                 <video autoplay loop>
-                  <source src="/assets/videos/{{page.video}}" type="video/mp4">
+                  <source src="/assets/videos/{{page.video}}" poster="assets/images/{{post.image}}" type="video/mp4">
                   <img src="/assets/images/{{page.image}}" alt="{{post.title | escape}}"/>
                 </video>
               {%- else -%}
