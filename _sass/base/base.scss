@@ -24,6 +24,13 @@ h1, h2, h3, h4, h5, h6 {
   color: yellow;
 }
 
+a {
+  color: yellow;
+  &:hover, &:visited, &:active, &:link {
+    color: yellow;
+  }
+}
+
 .c-hover {
   @include image-hover-brightness;
 }
@@ -51,6 +58,7 @@ h1, h2, h3, h4, h5, h6 {
   background: black;
   color: yellow;
   max-width: 50%;
+  font-family: 'Courier New', Courier, monospace;
   z-index: 1;
   @media (max-width: 1024px) {
     max-width: 100%;

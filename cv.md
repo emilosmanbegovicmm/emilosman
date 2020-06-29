@@ -1,10 +1,8 @@
 ---
 layout: page
-title: CV
 permalink: /cv/
 ---
 
-# Emil Osmanbegovic
 ## Ruby on Rails & JavaScript developer
 ![profile picture](https://github.com/emilosman/emil-cv/raw/master/profile.jpg)  
 Born in 1992.  

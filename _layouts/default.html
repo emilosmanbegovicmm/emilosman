@@ -4,15 +4,12 @@
   {%- include head.html -%}
 
   <body>
-
     <main class="page-content" aria-label="Content">
       <div class="container-fluid">
+        {%- include header.html -%}
+
         {{ content }}
       </div>
     </main>
-
-    {%- include footer.html -%}
-
   </body>
-
 </html>

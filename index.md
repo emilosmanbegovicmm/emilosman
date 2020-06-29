@@ -5,10 +5,10 @@
 layout: home
 ---
 
-# Emil Osmanbegovic
 ## Visual artist & web developer from Serbia
 
-- description
-- contact, cv
+[[Read CV]](/cv)
+[[GitHub]](https://www.github.com/emilosman)
+[[Email]](mailto:emilosmanbegovic@gmail.com)
 
 ## Active projects
