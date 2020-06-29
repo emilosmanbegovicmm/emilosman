@@ -18,7 +18,14 @@ layout: default
         <div class="col">
           <div class="c-hero__tile c-shadow mb-4">
             <div class="c-hero__tile__image">
-              <img src="/assets/images/{{page.image}}" alt="{{post.title | escape}}"/>
+              {%- if page.video -%}
+                <video autoplay loop>
+                  <source src="/assets/videos/{{page.video}}" type="video/mp4">
+                  <img src="/assets/images/{{page.image}}" alt="{{post.title | escape}}"/>
+                </video>
+              {%- else -%}
+                <img src="/assets/images/{{page.image}}" alt="{{post.title | escape}}"/>
+              {%- endif -%}
             </div>
           </div>
         </div>
