@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## Visual artist & web developer from Serbia
+## Web developer & visual artist from Serbia
 
 [[Read CV]](/cv)
 [[GitHub]](https://www.github.com/emilosman)
