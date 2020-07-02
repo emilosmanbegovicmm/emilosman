@@ -8,5 +8,7 @@ video: 'moonboard.mp4'
 permalink: /moonboard/
 ---
 
+[[Source code]](https://github.com/emilosman/moonboard)
+
 A moodboard inspired by `gomoodboard`.
 Built with Rails and Vue.js.
