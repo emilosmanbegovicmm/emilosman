@@ -48,3 +48,15 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+
+<script>
+  let zoomableImage = document.querySelector('.c-hero__tile');
+  if (zoomableImage) {
+    zoomableImage.addEventListener('click', () =>
+      {
+        zoomableImage.classList.toggle("c-hero__tile--expand");
+      }
+    );
+  }
+</script>
