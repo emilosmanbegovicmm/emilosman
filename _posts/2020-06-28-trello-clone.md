@@ -5,8 +5,6 @@ date:   2020-06-28 19:33:37 +0200
 categories: project
 image: 'trello-clone.jpg'
 video: 'trello-clone.mp4'
-website: ''
-source: ''
 permalink: /trello-clone/
 ---
 
