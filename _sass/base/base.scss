@@ -115,3 +115,25 @@ a {
 .post-title {
   font-family: 'Courier New', Courier, monospace;
 }
+
+
+.tower {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  border: 1px solid yellow;
+  object-fit: contain;
+  img {
+    width: 100%;
+    padding: 5px;
+  }
+  @media (max-width: 1024px) {
+    display: none;
+  }
+}
