@@ -96,6 +96,21 @@ a {
   }
 }
 
+.c-hero__tile__image--main {
+  @media (max-width: 600px) {
+    video {
+      display: none;
+    }
+  }
+}
+
+.c-hero__tile__image__mobile {
+  display: none;
+  @media (max-width: 600px) {
+    display: block;
+  }
+}
+
 @media print {
   body {
     background-color: white;

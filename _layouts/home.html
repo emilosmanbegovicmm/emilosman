@@ -26,7 +26,7 @@ layout: default
               <h3 class="c-hero__tile__label p-2 m-4">
                 {{ post.title | escape }}
               </h3>
-              <div class="c-hero__tile__image c-hover">
+              <div class="c-hero__tile__image c-hero__tile__image--main c-hover">
                 {%- if post.video -%}
                   <video autoplay loop preload="auto">
                     <source src="assets/videos/{{post.video}}" poster="assets/images/{{post.image}}" type="video/mp4">
@@ -35,6 +35,7 @@ layout: default
                 {%- else -%}
                   <img src="assets/images/{{post.image}}" alt="{{post.title | escape}}"/>
                 {%- endif -%}
+                <img class="c-hero__tile__image__mobile" src="assets/images/{{post.image}}" alt="{{post.title | escape}}"/>
               </div>
             </a>
           </div>
