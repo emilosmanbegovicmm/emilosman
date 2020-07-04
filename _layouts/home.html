@@ -28,7 +28,7 @@ layout: default
               </h3>
               <div class="c-hero__tile__image c-hero__tile__image--main c-hover">
                 {%- if post.video -%}
-                  <video autoplay loop preload="auto">
+                  <video autoplay loop>
                     <source src="assets/videos/{{post.video}}" poster="assets/images/{{post.image}}" type="video/mp4">
                     <img src="assets/images/{{post.image}}" alt="{{post.title | escape}}"/>
                   </video>
