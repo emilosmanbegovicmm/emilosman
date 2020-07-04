@@ -32,7 +32,7 @@ Some of my other skills are:
 - HTML5
 - CSS3
 - SASS
-- [BEM standards](http://getbem.com/introduction/)
+- BEM standards
 - Heroku
 - Netlify
 - Continuous Integration
