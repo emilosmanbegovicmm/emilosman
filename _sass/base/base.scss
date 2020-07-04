@@ -126,6 +126,9 @@ a {
       color: black;
     }
   }
+  .tower, .tower--post {
+    display: none;
+  }
 }
 
 .post-title {
