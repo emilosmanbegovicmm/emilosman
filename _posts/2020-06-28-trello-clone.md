@@ -6,6 +6,7 @@ categories: project
 image: 'trello-clone.jpg'
 video: 'trello-clone.mp4'
 permalink: /trello-clone/
+description: 'A Trello clone built with Ruby on Rails and Vue.js.'
 ---
 
 [[Source code]](https://github.com/emilosman/trello-clone)

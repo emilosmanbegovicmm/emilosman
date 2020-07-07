@@ -6,6 +6,7 @@ categories: project
 image: 'exocortex.jpg'
 video: 'exocortex.mp4'
 permalink: /exocortex/
+description: 'An archive repository of notes, articles and drafts.'
 ---
 
 An archive repository of notes, articles and drafts.
