@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+image: 'og_image.jpg'
 ---
 
 ## Web developer & visual artist from Serbia
