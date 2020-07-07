@@ -4,6 +4,7 @@
 
 layout: home
 image: 'assets/images/og_image.jpg'
+description: 'Web developer & visual artist from Serbia'
 ---
 
 ## Web developer & visual artist from Serbia
