@@ -12,3 +12,5 @@ description: 'Combines a GitHub style activity heatmap calendar with a Markdown 
 
 Combines a GitHub style activity heatmap calendar with a Markdown editor.  
 One entry per day.
+
+Made with Rails and Vue.js.
