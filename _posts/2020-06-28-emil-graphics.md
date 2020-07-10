@@ -6,7 +6,7 @@ categories: project
 image: 'assets/images/emil-graphics.jpg'
 video: 'emil-graphics.mp4'
 permalink: /emil-graphics/
-description: 'A portfolio of visual art.Made with Ruby on Rails and includes a webshop with PayPal integration.'
+description: 'A portfolio of visual art. Made with Ruby on Rails and includes a webshop with PayPal integration.'
 ---
 
 [[Website]](https://emil.graphics)
