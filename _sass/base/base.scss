@@ -119,9 +119,6 @@ a {
   opacity: 0;
   z-index: 9;
   transition: opacity 0.250s;
-  @media (max-width: 600px) {
-    display: none;
-  }
 }
 
 .c-hero__tile__image {
