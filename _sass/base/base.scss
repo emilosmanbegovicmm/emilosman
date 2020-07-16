@@ -18,9 +18,12 @@ body {
   font-family: $century-regular;
   background-color: #fafafa;
   color: black;
-  position: relative;
   padding-top: 8px;
   padding-bottom: 36px;
+}
+
+.container, .container-fluid {
+  position: relative;
 }
 
 h1 {
