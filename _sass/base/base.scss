@@ -16,14 +16,20 @@ $hover-brightness: brightness(44%);
 
 body {
   font-family: $century-regular;
-  background-color: blue;
-  color: white;
+  background-color: #fafafa;
+  color: black;
   position: relative;
+  padding-top: 8px;
   padding-bottom: 36px;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: yellow;
+h1 {
+  font-family: "Futura";
+  font-weight: bold;
+}
+
+h2, h3, h4, h5, h6 {
+  color: black;
   font-family: $century-regular;
   a {
     font-family: $century-regular;
@@ -36,9 +42,9 @@ p {
 
 a {
   font-family: 'Courier New', Courier, monospace;
-  color: yellow;
+  color: black;
   &:hover, &:visited, &:active, &:link {
-    color: yellow;
+    color: black;
   }
 }
 
@@ -76,8 +82,8 @@ a {
 .c-hero__tile__label {
   position: absolute;
   bottom: 0;
-  background: blue;
-  color: yellow;
+  background: black;
+  color: white;
   max-width: 50%;
   font-family: 'Courier New', Courier, monospace;
   z-index: 1;
@@ -182,7 +188,7 @@ a {
   height: 150px;
   width: 150px;
   border-radius: 100%;
-  border: 1px solid yellow;
+  border: 1px solid black;
   object-fit: contain;
   img {
     width: 100%;

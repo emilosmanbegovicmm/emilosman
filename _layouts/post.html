@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<a href="/" class="tower tower--post">
-  <img src="/assets/images/tower_lineart_yellow.png"/>
-</a>
-
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -17,30 +13,25 @@ layout: default
             <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
-      {%- endif -%}</p>
+      {%- endif -%}
+    </p>
 
-      <div class="row">
-        <div class="col">
-          <div class="c-hero__tile c-shadow mb-4">
-            <div class="c-hero__tile__image">
-              {%- if page.video -%}
-                <video autoplay loop>
-                  <source src="/assets/videos/{{page.video}}" poster="assets/images/{{post.image}}" type="video/mp4">
-                  <img src="{{page.image}}" alt="{{post.title | escape}}"/>
-                </video>
-              {%- else -%}
+    <div class="row">
+      <div class="col">
+        <div class="c-hero__tile c-shadow mb-4">
+          <div class="c-hero__tile__image">
+            {%- if page.video -%}
+              <video autoplay loop>
+                <source src="/assets/videos/{{page.video}}" poster="assets/images/{{post.image}}" type="video/mp4">
                 <img src="{{page.image}}" alt="{{post.title | escape}}"/>
-              {%- endif -%}
-            </div>
+              </video>
+            {%- else -%}
+              <img src="{{page.image}}" alt="{{post.title | escape}}"/>
+            {%- endif -%}
           </div>
         </div>
       </div>
-
-      <div class="row">
-        <div class="col-12">
-          {{page.website}}
-        </div>
-      </div>
+    </div>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
