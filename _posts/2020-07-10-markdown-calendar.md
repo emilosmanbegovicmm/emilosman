@@ -14,3 +14,5 @@ Combines a GitHub style activity heatmap calendar with a Markdown editor.
 One entry per day.
 
 Made with Rails and Vue.js.
+
+Also features a drawing board to add handwritten notes to calendar entries.

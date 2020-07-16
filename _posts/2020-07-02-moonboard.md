@@ -17,3 +17,5 @@ Built with Rails and Vue.js.
 
 Features drag&drop upload, comments and a dynamic layout for arranging images.  
 Generates a link for sharing boards publicly.
+
+Has a [[Chrome extension]](https://github.com/emilosman/moonboard-chrome) that allows you to send images you find on the web directly to `moonboard`, works similarly to Pinterest.
