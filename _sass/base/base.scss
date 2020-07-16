@@ -3,7 +3,14 @@
   src: url("/assets/fonts/century_schoolbook_regular.ttf");
 }
 
+@font-face {
+  font-family: 'Futura';
+  src: url("/assets/fonts/FuturaLT-Bold.ttf");
+}
+
 $century-regular: "CenturyRegular", serif;
+$futura: "Futura", sans-serif;
+
 $hover-brightness: brightness(44%);
 
 @mixin image-hover-brightness {
@@ -27,7 +34,7 @@ body {
 }
 
 h1 {
-  font-family: "Futura";
+  font-family: $futura;
   font-weight: bold;
 }
 
