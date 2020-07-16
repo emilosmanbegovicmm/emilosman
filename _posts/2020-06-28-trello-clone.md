@@ -9,6 +9,6 @@ permalink: /trello-clone/
 description: 'A Trello clone built with Ruby on Rails and Vue.js.'
 ---
 
-[[Source code]](https://github.com/emilosman/trello-clone)
+[Source code](https://github.com/emilosman/trello-clone)
 
 A Trello clone built with Ruby on Rails and Vue.js.

@@ -9,7 +9,7 @@ permalink: /emil-graphics/
 description: 'A portfolio of visual art. Made with Ruby on Rails and includes a webshop with PayPal integration.'
 ---
 
-[[Website]](https://emil.graphics)
+[Website](https://emil.graphics)
 
 A portfolio of visual art.  
 Made with Ruby on Rails and includes a webshop with PayPal integration.

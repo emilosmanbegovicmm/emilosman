@@ -36,6 +36,15 @@ body {
 h1 {
   font-family: $futura;
   font-weight: bold;
+  color: black;
+  a {
+    font-family: $futura;
+    background: none;
+    padding: 0;
+    &:hover, &:visited, &:active, &:link {
+      color: black;
+    }
+  }
 }
 
 h2, h3, h4, h5, h6 {
@@ -52,9 +61,10 @@ p {
 
 a {
   font-family: 'Courier New', Courier, monospace;
-  color: black;
+  background: blue;
+  padding: 2px 4px 2px 4px;
   &:hover, &:visited, &:active, &:link {
-    color: black;
+    color: white;
   }
 }
 
@@ -75,6 +85,7 @@ a {
   height: 40vw;
   max-height: 490px;
   transition: max-height 0.15s ease-out;
+  padding: 0;
   cursor: pointer;
   @media (max-width: 600px) {
     height: 80vw;
@@ -92,7 +103,7 @@ a {
 .c-hero__tile__label {
   position: absolute;
   bottom: 0;
-  background: black;
+  background: blue;
   color: white;
   max-width: 50%;
   font-family: 'Courier New', Courier, monospace;
@@ -174,6 +185,7 @@ a {
   }
   a {
     color: black;
+    background: none;
     &:hover, &:visited, &:active, &:link {
       color: black;
     }
