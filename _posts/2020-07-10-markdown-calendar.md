@@ -15,4 +15,4 @@ One entry per day.
 
 Made with Rails and Vue.js.
 
-Also features a drawing board to add handwritten notes to calendar entries.
+Also features a drawing board for adding handwritten notes to calendar entries.
