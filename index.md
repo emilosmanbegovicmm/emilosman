@@ -33,7 +33,7 @@ Here are some keywords that can help describe me:
 - mistakes and learning
 - improvement through iteration
 - experimentation
-- reusable code
+- recycling code
 
 Below are some experimental projects that I am working on.  
 I split my time between art and code projects, looking for the overlap between.
