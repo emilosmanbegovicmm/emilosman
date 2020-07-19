@@ -13,9 +13,9 @@ $futura: "Futura", sans-serif;
 
 $hover-brightness: brightness(44%);
 
-$highlight: $black;//#2d5aff;
-$background: #edede2;
-$black: #363636;
+$highlight: #363636;
+$background: #f9d9b0;
+$black: #332836;
 
 @mixin image-hover-brightness {
   transition: filter 0.250s;
@@ -80,7 +80,7 @@ ul, ol {
 }
 
 img {
-  filter: grayscale(100);
+  //filter: grayscale(100);
 }
 
 .c-hero__tile__image {
