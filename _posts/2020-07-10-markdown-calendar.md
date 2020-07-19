@@ -10,9 +10,10 @@ description: 'Combines a GitHub style activity heatmap calendar with a Markdown 
 
 [Source code](https://github.com/emilosman/markdown-calendar)
 
-Combines a GitHub style activity heatmap calendar with a Markdown editor.  
-One entry per day.
+Combines a GitHub style activity heatmap calendar with a `Markdown` editor.  
+One entry per day.  
+Features a drawing board for adding handwritten notes to calendar entries.  
+Can export `Markdown` files and commit them to a `git` repo for archiving.
 
 Made with Rails and Vue.js.
 
-Also features a drawing board for adding handwritten notes to calendar entries.
