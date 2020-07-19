@@ -13,7 +13,7 @@ description: 'Emil Osmanbegovic | Web developer & visual artist from Serbia'
 [GitHub](https://www.github.com/emilosman)
 [Email](mailto:emilosmanbegovic@gmail.com)
 
-Hello 👋  
+Hello!  
 I write code to make my life easier and by extension, help others.
 
 Here are some things I stand by:
@@ -34,4 +34,4 @@ Here are some things I stand by:
 Below are some experimental projects that I am working on.  
 I split my time between art and code projects, looking for the overlap between.
 
-## Active projects
+# Active projects
