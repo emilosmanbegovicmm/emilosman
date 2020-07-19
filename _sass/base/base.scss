@@ -13,6 +13,10 @@ $futura: "Futura", sans-serif;
 
 $hover-brightness: brightness(44%);
 
+$highlight: $black;//#2d5aff;
+$background: #edede2;
+$black: #363636;
+
 @mixin image-hover-brightness {
   transition: filter 0.250s;
   &:hover {
@@ -23,10 +27,11 @@ $hover-brightness: brightness(44%);
 
 body {
   font-family: $century-regular;
-  background-color: #fafafa;
-  color: black;
+  background-color: $background;
+  color: $black;
   padding-top: 8px;
   padding-bottom: 36px;
+  font-size: 18px;
 }
 
 .container, .container-fluid {
@@ -36,19 +41,19 @@ body {
 h1 {
   font-family: $futura;
   font-weight: bold;
-  color: black;
+  color: $black;
   a {
     font-family: $futura;
     background: none;
     padding: 0;
     &:hover, &:visited, &:active, &:link {
-      color: black;
+      color: $black;
     }
   }
 }
 
 h2, h3, h4, h5, h6 {
-  color: black;
+  color: $black;
   font-family: $century-regular;
   a {
     font-family: $century-regular;
@@ -61,7 +66,7 @@ p {
 
 a {
   font-family: 'Courier New', Courier, monospace;
-  background: blue;
+  background: $highlight;
   padding: 2px 4px 2px 4px;
   &:hover, &:visited, &:active, &:link {
     color: white;
@@ -70,6 +75,12 @@ a {
 
 ul, ol {
   padding-left: 20px;
+  column-count: 2;
+  max-width: 600px;
+}
+
+img {
+  filter: grayscale(100);
 }
 
 .c-hero__tile__image {
@@ -77,9 +88,9 @@ ul, ol {
 }
 
 .c-shadow {
-  -webkit-box-shadow: 0px 2px 4px 1px rgba(0,0,0,0.66);
-     -moz-box-shadow: 0px 2px 4px 1px rgba(0,0,0,0.66);
-          box-shadow: 0px 2px 4px 1px rgba(0,0,0,0.66);
+  -webkit-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.22);
+     -moz-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.22);
+          box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.22);
 }
 
 .c-hero__tile {
@@ -107,7 +118,7 @@ ul, ol {
 .c-hero__tile__label {
   position: absolute;
   bottom: 0;
-  background: blue;
+  background: $highlight;
   color: white;
   max-width: 50%;
   font-family: 'Courier New', Courier, monospace;
@@ -182,16 +193,16 @@ ul, ol {
 @media print {
   body {
     background-color: white;
-    color: black;
+    color: $black;
   }
   h1, h2, h3, h4, h5, h6 {
-    color: black;
+    color: $black;
   }
   a {
-    color: black;
+    color: $black;
     background: none;
     &:hover, &:visited, &:active, &:link {
-      color: black;
+      color: $black;
     }
   }
   .tower, .tower--post {
@@ -214,7 +225,7 @@ ul, ol {
   height: 150px;
   width: 150px;
   border-radius: 100%;
-  border: 1px solid black;
+  border: 1px solid $black;
   object-fit: contain;
   img {
     width: 100%;
