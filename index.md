@@ -21,7 +21,7 @@ Here are some things I stand by:
 - shipping early
 - taking notes
 - playing to one's strengths
-- open mind and creativity
+- openness and creativity
 - opinionated
 - communication
 - working remotely
