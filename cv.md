@@ -9,6 +9,7 @@ Born in 1992.
 Residing in Novi Sad, Serbia.  
 Email: [emilosmanbegovic@gmail.com](mailto:emilosmanbegovic@gmail.com)  
 GitHub: [emilosman](https://www.github.com/emilosman)  
+Website: [https://emil.rest](https://emil.rest)  
 Phone: `+381693179929`  
 Skype ID: `live:emilosmanbegovic`  
 [LinkedIn](https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/)
