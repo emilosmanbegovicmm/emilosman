@@ -12,6 +12,7 @@ description: 'Emil Osmanbegovic | Web developer & visual artist from Serbia'
 [Read CV](/cv)
 [GitHub](https://www.github.com/emilosman)
 [Email](mailto:emilosmanbegovic@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/)
 
 Hello!  
 I write code to make my life easier and by extension, help others.
