@@ -53,11 +53,11 @@ Freelance web developer. Working in Ruby on Rails, Ember.js and Vue.js.
 
 #### [Web developer at Sideqik](https://www.sideqik.com/)
 `November 2018 - March 2020`  
-Full time web developer. Working in Ruby on Rails and Ember.js.
+Company out of Atlanta, GA. Full time web developer. Working in Ruby on Rails and Ember.js.
 
 #### [Web developer at aac.digital](http://aac.digital/)
 `Jul 2017 – October 2018`  
-Full time web developer. Worked on large scale projects for clients like METRO, Telenor,  Jamie Oliver, BRF S.A., Zsidai Group.
+Company out of Budapest, Hungary. Full time web developer. Worked on large scale projects for clients like METRO, Telenor,  Jamie Oliver, BRF S.A., Zsidai Group.
 I learned the Ember.js framework and continued to study Ruby on Rails.
 
 #### Freelance Web Developer
