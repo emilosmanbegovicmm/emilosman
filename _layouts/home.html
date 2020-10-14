@@ -2,13 +2,17 @@
 layout: default
 ---
 
-<div class="tower">
-  <img src="assets/images/tower_black.png"/>
-</div>
 
 <div class="row">
   <div class="col">
-    {{ content }}
+    <div class="post-content">
+      <div class="tower">
+        <img src="assets/images/tower_black.png"/>
+      </div>
+      {{ content }}
+    </div>
+
+    <h1>Personal projects</h1>
 
     {% if site.paginate %}
       {% assign posts = paginator.posts %}

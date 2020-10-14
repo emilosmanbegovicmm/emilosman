@@ -14,8 +14,9 @@ $futura: "Futura", sans-serif;
 $hover-brightness: brightness(44%);
 
 $highlight: blue;
-$background: #edede2;//#f9d9b0;
-$black: #2e3238;//#332836;
+$background: #edede2;
+$black: #000;
+
 
 @mixin image-hover-brightness {
   transition: filter 0.250s;
@@ -44,13 +45,13 @@ body {
 h1 {
   font-family: $futura;
   font-weight: bold;
-  color: $black;
+  color: white;
   a {
     font-family: $futura;
     background: none;
     padding: 0;
     &:hover, &:visited, &:active, &:link {
-      color: $black;
+      color: white;
     }
   }
 }
@@ -80,10 +81,6 @@ ul, ol {
   padding-left: 20px;
   column-count: 2;
   max-width: 600px;
-}
-
-img {
-  //filter: grayscale(100);
 }
 
 code {
@@ -203,13 +200,13 @@ code {
     color: $black;
   }
   h1, h2, h3, h4, h5, h6 {
-    color: $black;
+    color: $black !important;
   }
   a {
-    color: $black;
+    color: $black !important;
     background: none;
     &:hover, &:visited, &:active, &:link {
-      color: $black;
+      color: $black !important;
     }
   }
   .tower, .tower--post {
@@ -218,6 +215,7 @@ code {
 }
 
 .post-title {
+  color: white;
   font-family: 'Courier New', Courier, monospace;
 }
 
@@ -228,7 +226,7 @@ code {
   justify-content: center;
   position: absolute;
   top: 16px;
-  right: 16px;
+  right: 32px;
   height: 150px;
   width: 150px;
   border-radius: 100%;
@@ -249,4 +247,38 @@ code {
   img {
     padding: 0;
   }
+}
+
+body {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.container {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.page-content {
+  position: relative;
+  height: 100%;
+  min-height: 100vh;
+}
+
+.gradient {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  @media print {
+    display: none;
+  }
+}
+
+.post-content {
+  padding: 16px;
+  margin-bottom: 16px;
+  background-color: white;
+  -webkit-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.22);
+  -moz-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.22);
+       box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.22);
 }
