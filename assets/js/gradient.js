@@ -62,10 +62,10 @@ md`# Gradient Generator 3.2`
 {
   // randomizeColors;
   return [
-    "#5135FF", // violet
-    "#FF5828", // orangeish
-    "#F69CFF", // pink
-    "#FFA50F", // mustard
+    "#3c8def",
+    "#3c8def",
+    "#dc3ded",
+    "#f9ec54"
   ]
 }
 );
