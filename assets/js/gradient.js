@@ -64,8 +64,7 @@ md`# Gradient Generator 3.2`
   return [
     "#3c8def",
     "#3c8def",
-    "#dc3ded",
-    "#f9ec54"
+    "#dc3ded"
   ]
 }
 );
