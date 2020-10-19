@@ -10,21 +10,3 @@
     {%- include google-analytics.html -%}
   {%- endif -%}  
 </head>
-
-
-<script type="module">
-  import {Runtime, Inspector, Library} from "/assets/js/runtime.js";
-  import notebook from "/assets/js/gradient.js";
-
-  const renders = {
-    "gradient": "#gradient",
-  };
-  const runtime = new Runtime(Object.assign(new Library)).module(notebook, name => {
-    const selector = renders[name];
-    if (selector) { // key exists
-      return new Inspector(document.querySelector(selector));
-    } else {
-      return true;
-    }
-  });
-</script>
