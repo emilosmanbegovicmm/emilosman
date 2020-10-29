@@ -89,6 +89,10 @@ code {
 
 .c-hero__tile__image {
   transition: filter 0.250s;
+  img {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
 }
 
 .c-shadow {

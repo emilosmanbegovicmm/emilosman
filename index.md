@@ -32,6 +32,4 @@ Here are some things I stand by:
 - recycling code
 - code as art
 
-Below are some experimental projects that I am working on.  
-I split my time between art and code projects, looking for the overlap between.  
-**For my commercial work,** [read the CV.](/cv)
+**For my commercial work,** [read the CV.](/cv)  
