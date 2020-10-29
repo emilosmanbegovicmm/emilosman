@@ -14,7 +14,7 @@ $futura: "Futura", sans-serif;
 $hover-brightness: brightness(44%);
 
 $highlight: blue;
-$background: #1b85dc;
+$background: #edede2;
 $black: #000;
 
 
@@ -45,13 +45,13 @@ body {
 h1 {
   font-family: $futura;
   font-weight: bold;
-  color: white;
+  color: $black;
   a {
     font-family: $futura;
     background: none;
     padding: 0;
     &:hover, &:visited, &:active, &:link {
-      color: white;
+      color: $black;
     }
   }
 }
