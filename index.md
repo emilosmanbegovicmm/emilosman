@@ -29,51 +29,55 @@ Client experience covering projects for ...
 [You can read my detailed CV with work history here.](/cv)
 
 ### Personal projects
+Below are some experimental projects that I am working on.  
+I split my time between art and code projects, looking for the overlap between.  
+The source-code can be found on my [GitHub profile.](https://github.com/emilosman)
+
 <div>
- {% if site.paginate %}
-        {% assign posts = paginator.posts %}
-      {% else %}
-        {% assign posts = site.posts %}
-      {% endif %}
-      
-      {%- if posts.size > 0 -%}
-        <div class="row">
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          {%- for post in posts -%}
-      
-            <div class="col-sm-6 col-xs-12">
-              <a href="{{ post.url | relative_url }}" class="c-hero__tile c-hero__tile--hover c-shadow mb-4">
-                <h3 class="c-hero__tile__label p-2 m-4">
-                  {{ post.title | escape }}
-                </h3>
-                <div class="c-hero__tile__description">{{post.description}}</div>
-                <div class="c-hero__tile__image c-hero__tile__image--main">
-                  <img src="{{post.image}}" alt="{{post.title | escape}}"/>
-                </div>
-              </a>
+  {% if site.paginate %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+  
+  {%- if posts.size > 0 -%}
+    <div class="row">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in posts -%}
+  
+        <div class="col-sm-6 col-xs-12">
+          <a href="{{ post.url | relative_url }}" class="c-hero__tile c-hero__tile--hover c-shadow mb-4">
+            <h3 class="c-hero__tile__label p-2 m-4">
+              {{ post.title | escape }}
+            </h3>
+            <div class="c-hero__tile__description">{{post.description}}</div>
+            <div class="c-hero__tile__image c-hero__tile__image--main">
+              <img src="{{post.image}}" alt="{{post.title | escape}}"/>
             </div>
-      
-          {%- endfor -%}
+          </a>
         </div>
-      
-        {% if site.paginate %}
-          <div class="pager">
-            <ul class="pagination">
-            {%- if paginator.previous_page %}
-              <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
-            {%- else %}
-              <li><div class="pager-edge">•</div></li>
-            {%- endif %}
-              <li><div class="current-page">{{ paginator.page }}</div></li>
-            {%- if paginator.next_page %}
-              <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-            {%- else %}
-              <li><div class="pager-edge">•</div></li>
-            {%- endif %}
-            </ul>
-          </div>
+  
+      {%- endfor -%}
+    </div>
+  
+    {% if site.paginate %}
+      <div class="pager">
+        <ul class="pagination">
+        {%- if paginator.previous_page %}
+          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
         {%- endif %}
-      {%- endif -%}
+          <li><div class="current-page">{{ paginator.page }}</div></li>
+        {%- if paginator.next_page %}
+          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+        </ul>
+      </div>
+    {%- endif %}
+  {%- endif -%}
 </div>
 
 ### Want to chat about tech and art?
