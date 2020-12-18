@@ -9,27 +9,7 @@ description: 'Emil Osmanbegovic | Web developer & visual artist from Serbia'
 
 ## Web developer & visual artist from Serbia
 
-[Read CV](/cv)
-[GitHub](https://www.github.com/emilosman)
-[Email](mailto:emilosmanbegovic@gmail.com)
+[CV](/cv)  
+[GitHub](https://www.github.com/emilosman)  
+[Email](mailto:emilosmanbegovic@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/)
-
-Hello!  
-I write code to make my life easier and by extension, help others.
-
-Here are some things I stand by:
-- keeping it simple
-- shipping early
-- taking notes
-- playing to one's strengths
-- openness and creativity
-- opinionated
-- communication
-- working remotely
-- long term projects
-- improvement through iteration
-- experimentation
-- recycling code
-- code as art
-
-**For my commercial work,** [read the CV.](/cv)  
