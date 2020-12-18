@@ -9,7 +9,7 @@ description: 'Emil Osmanbegovic | Web developer & visual artist from Serbia'
 
 ## Web developer & visual artist from Serbia
 
-[CV](/cv)  
+[Read my CV](/cv)  
 [GitHub](https://www.github.com/emilosman)  
 [Email](mailto:emilosmanbegovic@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/)
