@@ -29,6 +29,8 @@ $black: #000;
 body {
   font-family: $century-regular;
   background-color: $background;
+  background-image: url('/assets/images/bg/an088a.jpg');
+  background-size: 10%;
   color: $black;
   padding-top: 8px;
   padding-bottom: 36px;
@@ -40,6 +42,8 @@ body {
 
 .container, .container-fluid {
   position: relative;
+  background-color: $background;
+  min-height: 100vh;
 }
 
 h1 {
@@ -202,6 +206,7 @@ code {
   body {
     background-color: white;
     color: $black;
+    background-image: none;
   }
   h1, h2, h3, h4, h5, h6 {
     color: $black !important;
