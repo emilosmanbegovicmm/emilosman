@@ -1,3 +1,3 @@
-## https://emilosman.con
+## https://emilosman.com
 
 # Ruby on Rails and JavaScript projects
