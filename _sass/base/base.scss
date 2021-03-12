@@ -135,11 +135,6 @@ code {
   @media (max-width: 1024px) {
     max-width: 100%;
   }
-  &:hover {
-    .c-info-strip__read-bio {
-      opacity: 1;
-    }
-  }
 }
 
 .c-hero__tile--hover {
@@ -150,6 +145,10 @@ code {
     }
     .c-hero__tile__description {
       opacity: 1;
+    }
+    .c-hero__tile__label {
+      filter: $hover-brightness;
+      -webkit-filter: $hover-brightness;
     }
   }
 }
