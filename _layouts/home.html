@@ -3,13 +3,42 @@ layout: default
 ---
 
 <div class="row">
-  <div class="col">
-    <div class="post-content">
-      {{ content }}
+  <div class="col-12">
+    <h2 class="mb-4">Web developer & visual artist from Serbia</h2>
+  </div>
+  <div class="col-sm-6 col-xs-12">
+    <nav>
+      <a href="/cv" class="p-2 mb-3">CV</a>
+      <a href="https://www.github.com/emilosman" class="p-2 mb-3">GitHub</a>
+      <a href="mailto:emilosmanbegovic@gmail.com" class="p-2 mb-3">Email</a>
+      <a href="https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/" class="p-2 mb-3">LinkedIn</a>
+    </nav>
+  </div>
+  <div class="col-sm-6 col-xs-12">
+    <a class="banner-image" href="https://emil.graphics">
+      <img src="/assets/images/20210119_3_web.jpg"/>
+    </a>
+  </div>
+</div>
 
-      <a class="banner-image" href="https://emil.graphics">
-        <img src="/assets/images/20210119_3_web.jpg"/>
+<div class="row">
+  <div class="col-12">
+    <h2 class="mb-4">Personal projects & experiments</h2>
+  </div>
+  
+  {% assign posts = site.posts %}
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  {%- for post in posts -%}
+    <div class="col-sm-6 col-xs-12">
+      <a href="{{ post.url | relative_url }}" class="c-hero__tile c-hero__tile--hover c-shadow mb-4">
+        <h3 class="c-hero__tile__label p-2 m-4">
+          {{ post.title | escape }}
+        </h3>
+        <div class="c-hero__tile__description">{{post.description}}</div>
+        <div class="c-hero__tile__image c-hero__tile__image--main">
+          <img src="{{post.image}}" alt="{{post.title | escape}}"/>
+        </div>
       </a>
     </div>
-  </div>
+  {%- endfor -%}
 </div>
