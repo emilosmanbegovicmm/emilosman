@@ -23,7 +23,7 @@ I speak English, Hungarian and Serbian fluently.
 ### Specialties
 My specialties are **Ruby on Rails**, **Ember.js** and **Vue.js**.
 
-Some of my other skills are:
+My skills include:
 - PostgreSQL
 - MongoDB
 - ECMAScript
@@ -49,7 +49,8 @@ Some of my other skills are:
 
 #### Freelance Web Developer
 `April 2020 - Present`  
-Freelance web developer. Working in Ruby on Rails, Ember.js and Vue.js.
+Freelance web developer. Working in Ruby on Rails, Ember.js and Vue.js.  
+Taking on senior roles and mentoring junior developers.
 
 #### [Web developer at Sideqik](https://www.sideqik.com/)
 `November 2018 - March 2020`  
@@ -79,4 +80,4 @@ Academy of Arts in Novi Sad, Serbia – Printmaking
 Technical High School in Kikinda, Serbia - Electrical and Electronics Engineering, Programming
 
 ### Other interests
-Drawing, reading, weightlifting.
+Drawing, writing, weightlifting.
