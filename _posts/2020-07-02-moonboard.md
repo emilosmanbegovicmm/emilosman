@@ -21,6 +21,6 @@ Generates a link for sharing boards publicly.
 [Here's an example of a shared board](https://moonboardapp.herokuapp.com/b/eda2d9d6-d6c9-4932-b945-dbf6c25dba1d)
 
 ## Chrome extension
-The accompanying [Chrome extension](https://github.com/emilosman/moonboard-chrome) allows you to send images you find on the web directly to `moonboard` and similarly to Pinterest.
+The accompanying [Chrome extension](https://github.com/emilosman/moonboard-chrome) allows you to send images you find on the web directly to `moonboard`. Similar to Pinterest.
 
 ![moonboard chrome screenshot](/assets/images/moonboard_chrome_screenshot.jpg)  
