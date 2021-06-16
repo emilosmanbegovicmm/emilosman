@@ -54,11 +54,13 @@ Taking on senior roles and mentoring junior developers.
 
 #### [Web developer at Sideqik](https://www.sideqik.com/)
 `November 2018 - March 2020`  
-Company out of Atlanta, GA. Full time web developer. Working in Ruby on Rails and Ember.js.
+`Atlanta, USA`  
+Full time web developer. Working in Ruby on Rails and Ember.js.
 
 #### [Web developer at aac.digital](http://aac.digital/)
 `Jul 2017 – October 2018`  
-Company out of Budapest, Hungary. Full time web developer. Worked on large scale projects for clients like METRO, Telenor,  Jamie Oliver, BRF S.A., Zsidai Group.
+`Budapest, Hungary`  
+Full time web developer. Worked on large scale projects for clients like METRO, Telenor,  Jamie Oliver, BRF S.A., Zsidai Group.
 I learned the Ember.js framework and continued to study Ruby on Rails.
 
 #### Freelance Web Developer
