@@ -185,8 +185,8 @@ code {
 
 .c-hero__tile__image--main {
   img {
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
+    //-webkit-filter: grayscale(100%);
+    //filter: grayscale(100%);
   }
   @media (max-width: 600px) {
     video {
