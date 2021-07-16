@@ -7,7 +7,7 @@ permalink: /cv/
 ![profile picture](/assets/images/profile.jpg)  
 Born in 1992.  
 Residing in Novi Sad, Serbia.  
-Email: [emilosmanbegovic@gmail.com](mailto:emilosmanbegovic@gmail.com)  
+Email: [hello@emilosman.com](mailto:hello@emilosman.com)  
 GitHub: [emilosman](https://www.github.com/emilosman)  
 Website: [https://emilosman.com](https://emilosman.com)  
 Phone: `+381693179929`  
