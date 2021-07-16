@@ -11,7 +11,7 @@ published: true
 
 [Source code](https://github.com/emilosman/stile-gallery)
 
-A 3D art gallery that runs in the browser.  
+A 3D art gallery that runs in the browser using WebGL.  
 An ongoing project that is heavily WIP.  
 Modeled in Blender by [Matthew Fall McKenzie](https://matthewthestoat.neocities.org/).  
 Artwork by various artists affiliated with [STILE](https://twitter.com/secessionstile).  
