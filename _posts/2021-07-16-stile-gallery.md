@@ -5,7 +5,7 @@ date:   2021-07-16 00:00:00 +0200
 categories: project
 image: '/assets/images/stile-gallery.jpg'
 permalink: /stile-gallery/
-description: 'WebGL exprimental 3D art gallery.'
+description: 'WebGL 3D art gallery.'
 published: true
 ---
 
