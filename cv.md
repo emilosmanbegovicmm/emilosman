@@ -1,8 +1,3 @@
----
-layout: page
-permalink: /cv/
----
-
 ## Ruby on Rails & JavaScript developer
 ![profile picture](/assets/images/profile.jpg)  
 Born in 1992.  

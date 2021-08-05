@@ -14,7 +14,7 @@ layout: default
       <br>
       Read my <a href="/cv">CV</a> for details about my professional work.
       <br>
-      Below you can see some of my hobby projects.
+      Below you can see some of my <a href="#personal-projects">personal projects</a>.
       <br>
       Enjoy!
     </p>
@@ -25,16 +25,16 @@ layout: default
       <a href="https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/" class="text-center p-2 mb-3 c-shadow">LinkedIn</a>
     </nav>
   </div>
-  <div class="col-sm-6 col-xs-12">
-    <a class="banner-image" href="https://emil.graphics">
-      <img src="/assets/images/avatar.jpg"/>
-    </a>
-  </div>
 </div>
+
+{% capture include_markdown %}{% include_relative cv.md %}{% endcapture %}
+{{ include_markdown | markdownify }}
+
+<hr>
 
 <div class="row">
   <div class="col-12">
-    <h2 class="mb-4">Personal projects & experiments</h2>
+    <h2 class="mb-4" id="personal-projects">Personal projects & experiments</h2>
   </div>
   
   {% assign posts = site.posts %}
