@@ -57,6 +57,8 @@ I worked with the Hungarian company aac.digital Ltd. as a contracted freelancer.
 I publish my open-source work on GitHub:
 [emilosman](https://www.github.com/emilosman)
 
+___
+
 ### Don't hesitate to get in touch!
 Email: [hello@emilosman.com](mailto:hello@emilosman.com)  
 GitHub: [emilosman](https://www.github.com/emilosman)  
