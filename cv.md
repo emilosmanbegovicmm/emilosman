@@ -22,8 +22,8 @@ My skills include:
 - PostgreSQL
 - MongoDB
 - ECMAScript
-- REST API
 - JSON API
+- Docker
 - GIT
 - HTML5
 - CSS3
@@ -33,8 +33,6 @@ My skills include:
 - Netlify
 - Continuous Integration
 - Test Driven Development
-- CoffeeScript
-- jQuery
 - Linux
 - Agile development
 - Photoshop
