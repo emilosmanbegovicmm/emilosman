@@ -30,10 +30,10 @@ My skills include:
 - SASS
 - BEM standards
 - Heroku
-- Netlify
+- Vercel
 - Continuous Integration
 - Test Driven Development
-- Linux
+- Unix
 - Agile development
 - Photoshop
 - Sketch
