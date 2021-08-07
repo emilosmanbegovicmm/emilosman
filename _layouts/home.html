@@ -2,54 +2,11 @@
 layout: default
 ---
 
-<div class="row">
-  <div class="col-12">
-    <h2 class="mb-4">Web developer from Serbia</h2>
-  </div>
-  <div class="col-sm-6 col-xs-12">
-    <p>
-      Working with Ruby on Rails & JavaScript.
-      <br>
-      I draw in my free time.
-      <br>
-      Read my <a href="/cv">CV</a> for details about my professional work.
-      <br>
-      Below you can see some of my <a href="#personal-projects">personal projects</a>.
-      <br>
-      Enjoy!
-    </p>
-    <nav>
-      <a href="/cv" class="text-center p-2 mb-3 c-shadow">CV</a>
-      <a href="https://www.github.com/emilosman" class="text-center p-2 mb-3 c-shadow">GitHub</a>
-      <a href="mailto:hello@emilosman.com" class="text-center p-2 mb-3 c-shadow">Email</a>
-      <a href="https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/" class="text-center p-2 mb-3 c-shadow">LinkedIn</a>
-    </nav>
-  </div>
-</div>
+<nav>
+  <a href="https://www.github.com/emilosman">GitHub</a>
+  <a href="https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/">LinkedIn</a>
+  <a href="mailto:hello@emilosman.com">Email</a>
+</nav>
 
 {% capture include_markdown %}{% include_relative cv.md %}{% endcapture %}
 {{ include_markdown | markdownify }}
-
-<hr>
-
-<div class="row">
-  <div class="col-12">
-    <h2 class="mb-4" id="personal-projects">Personal projects & experiments</h2>
-  </div>
-  
-  {% assign posts = site.posts %}
-  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-  {%- for post in posts -%}
-    <div class="col-sm-6 col-xs-12">
-      <a href="{{ post.url | relative_url }}" class="c-hero__tile c-hero__tile--hover c-shadow mb-4">
-        <div class="c-hero__tile__description">{{post.description}}</div>
-        <h3 class="c-hero__tile__label p-2 m-4">
-          {{ post.title | escape }}
-        </h3>
-        <div class="c-hero__tile__image c-hero__tile__image--main">
-          <img src="{{post.image}}" alt="{{post.title | escape}}"/>
-        </div>
-      </a>
-    </div>
-  {%- endfor -%}
-</div>

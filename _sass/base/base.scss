@@ -41,6 +41,17 @@ body {
 .container, .container-fluid {
   position: relative;
   background-color: $background;
+  padding: 10px 50px 10px 10px;
+}
+
+nav {
+  position: fixed;
+  top: 100px;
+  right: 10px;
+  writing-mode: vertical-lr;
+  @media (max-width: 600px) {
+    top: 10px;
+  }
 }
 
 img {
@@ -220,7 +231,10 @@ code {
       color: $black !important;
     }
   }
-  .tower, .tower--post {
+  nav {
+    display: none;
+  }
+  #personal-projects {
     display: none;
   }
 }
@@ -232,11 +246,6 @@ code {
 body {
   padding-top: 0;
   padding-bottom: 0;
-}
-
-.container {
-  padding-top: 16px;
-  padding-bottom: 16px;
 }
 
 .page-content {
@@ -257,9 +266,4 @@ body {
     width: 100%;
     height: auto;
   }
-}
-
-nav {
-  display: flex;
-  flex-direction: column;
 }

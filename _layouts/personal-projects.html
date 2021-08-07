@@ -1,0 +1,22 @@
+
+<div class="row" id="personal-projects">
+  <div class="col-12">
+    <h2 class="mb-4">Personal projects & experiments</h2>
+  </div>
+  
+  {% assign posts = site.posts %}
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  {%- for post in posts -%}
+    <div class="col-sm-6 col-xs-12">
+      <a href="{{ post.url | relative_url }}" class="c-hero__tile c-hero__tile--hover c-shadow mb-4">
+        <div class="c-hero__tile__description">{{post.description}}</div>
+        <h3 class="c-hero__tile__label p-2 m-4">
+          {{ post.title | escape }}
+        </h3>
+        <div class="c-hero__tile__image c-hero__tile__image--main">
+          <img src="{{post.image}}" alt="{{post.title | escape}}"/>
+        </div>
+      </a>
+    </div>
+  {%- endfor -%}
+</div>
