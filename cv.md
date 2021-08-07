@@ -3,6 +3,13 @@
 Born in 1992.  
 Residing in Novi Sad, Serbia.
 
+Email: [hello@emilosman.com](mailto:hello@emilosman.com)  
+GitHub: [emilosman](https://www.github.com/emilosman)  
+Website: [https://emilosman.com](https://emilosman.com)  
+Phone: `+381693179929`  
+Skype ID: `live:emilosmanbegovic`  
+[LinkedIn](https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/)
+
 ### Summary
 __I am a Ruby on Rails and JavaScript web developer.__  
 I work on Single Page Applications and large scale apps that service large user bases.  
@@ -57,12 +64,5 @@ I worked with the Hungarian company aac.digital Ltd. as a contracted freelancer.
 I publish my open-source work on GitHub:
 [emilosman](https://www.github.com/emilosman)
 
-___
-
-### Don't hesitate to get in touch!
-Email: [hello@emilosman.com](mailto:hello@emilosman.com)  
-GitHub: [emilosman](https://www.github.com/emilosman)  
-Website: [https://emilosman.com](https://emilosman.com)  
-Phone: `+381693179929`  
-Skype ID: `live:emilosmanbegovic`  
-[LinkedIn](https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/)
+#### Other interests
+Drawing, writing, weightlifting.
