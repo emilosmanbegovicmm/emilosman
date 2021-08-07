@@ -16,7 +16,7 @@
 title: Emil Osmanbegovic
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Web developer and visual artist from Serbia
+  Ruby on Rails & JavaScript developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
