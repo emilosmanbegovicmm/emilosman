@@ -11,9 +11,12 @@ Skype ID: `live:emilosmanbegovic`
 [LinkedIn](https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/)
 
 ### Summary
-__I am a Ruby on Rails and JavaScript web developer.__  
-I work on Single Page Applications and large scale apps that service large user bases.  
-I have worked in teams using Agile methodologies.  
+**Ruby on Rails and JavaScript developer since 2016.**  
+Working on SPAs and large scale apps that service large user bases.  
+Focused creative problem solver and active participant in meetings and discussions.  
+Working in Agile teams, using best practices.  
+Experience with developing features form initial sketches, all the way to writing tests.  
+Fully remote worker.  
 I speak English, Hungarian and Serbian fluently.
 
 ### Tech skills
@@ -38,10 +41,12 @@ I speak English, Hungarian and Serbian fluently.
 
 ### Experience
 
-#### Freelance Web Developer
-`April 2020 - Present`  
-Freelance web developer. Working in Ruby on Rails, Ember.js and Vue.js.  
-Taking on senior roles and mentoring junior developers.
+#### [Senior web developer at MentorMate](https://mentormate.com/)
+`November 2020 - Present`  
+`Sofia, Bulgaria`  
+Full time Rails developer.  
+Taking on senior roles and mentoring junior developers.  
+Participating in leadership courses and writing internal documentation.
 
 #### [Web developer at Sideqik](https://www.sideqik.com/)
 `November 2018 - March 2020`  
@@ -51,13 +56,13 @@ Full time web developer. Working in Ruby on Rails and Ember.js.
 #### [Web developer at aac.digital](http://aac.digital/)
 `Jul 2017 – October 2018`  
 `Budapest, Hungary`  
-Full time web developer. Worked on large scale projects for clients like METRO, Telenor,  Jamie Oliver, BRF S.A., Zsidai Group.
-I learned the Ember.js framework and continued to study Ruby on Rails.
+Full time Rails developer. Worked on large scale projects for clients like METRO, Telenor,  Jamie Oliver, BRF S.A., Zsidai Group.
+I learned the Ember.js frontend framework.
 
 #### Freelance Web Developer
 `November 2016 – Jul 2017`  
 In 2016 I started my professional career building Ruby on Rails applications.
-I worked with the Hungarian company aac.digital Ltd. as a contracted freelancer. Our clients included KLM Airlines, MagNetBank, Autobahn.pro and METRO. My role on these projects included front-end and back-end development.
+I worked with the Hungarian company [aac.digital](http://aac.digital/) as a contracted freelancer. Our clients included KLM Airlines, MagNetBank, Autobahn.pro and METRO. My roles on these projects included frontend and backend development.
 
 #### Open-Source Code
 `November 2016 - present`  
