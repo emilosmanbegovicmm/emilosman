@@ -1,7 +1,7 @@
 ## Ruby on Rails & JavaScript developer
 ![profile picture](/assets/images/profile.jpg)  
 Born in 1992.  
-Residing in Novi Sad, Serbia.
+Residing in Szeged, Hungary.
 
 Email: [hello@emilosman.com](mailto:hello@emilosman.com)  
 GitHub: [emilosman](https://www.github.com/emilosman)  
