@@ -6,7 +6,7 @@ Residing in Szeged, Hungary.
 Email: [hello@emilosman.com](mailto:hello@emilosman.com)  
 GitHub: [emilosman](https://www.github.com/emilosman)  
 Website: [https://emilosman.com](https://emilosman.com)  
-Phone: `+381693179929`  
+Phone: `+36707924240 / +381693179929`  
 Skype ID: `live:emilosmanbegovic`  
 [LinkedIn](https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/)
 
