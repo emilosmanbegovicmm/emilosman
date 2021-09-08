@@ -20,6 +20,7 @@ Fully remote worker.
 I speak English, Hungarian and Serbian fluently.
 
 ### Tech skills
+- Vue.js / Ember.js
 - PostgreSQL
 - MongoDB
 - ECMAScript
@@ -29,7 +30,6 @@ I speak English, Hungarian and Serbian fluently.
 - HTML5
 - CSS3
 - SASS
-- BEM standards
 - Heroku
 - Vercel
 - Continuous Integration
