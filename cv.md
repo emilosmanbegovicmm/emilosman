@@ -45,8 +45,7 @@ I speak English, Hungarian and Serbian fluently.
 `November 2020 - Present`  
 `Sofia, Bulgaria`  
 Full time Rails developer.  
-Taking on senior roles and mentoring junior developers.  
-Participating in leadership courses and writing internal documentation.
+Taking on senior roles and mentoring junior developers.
 
 #### [Web developer at Sideqik](https://www.sideqik.com/)
 `November 2018 - March 2020`  
