@@ -49,7 +49,9 @@ Taking on leadership roles and mentoring junior developers.
 #### [Web developer at Sideqik](https://www.sideqik.com/)
 `November 2018 - March 2020`  
 `Atlanta, USA`  
-Full time web developer. Working in Ruby on Rails and Ember.js.
+Full time Ruby on Rails and Ember.js.  
+Working in an Agile startup environment.  
+Developing features form initial sketches, all the way to writing tests.
 
 #### [Web developer at aac.digital](http://aac.digital/)
 `Jul 2017 – October 2018`  
@@ -64,8 +66,8 @@ I worked with the Hungarian company [aac.digital](http://aac.digital/) as a cont
 
 #### Open-Source Code
 `November 2016 - present`  
-I publish my open-source work on GitHub:
-[emilosman](https://www.github.com/emilosman)
+I publish my open-source work on GitHub: [emilosman](https://www.github.com/emilosman)  
+Check out some of my [personal projects and experiments](/personal-projects)
 
 #### Other interests
 Drawing, writing, weightlifting.
