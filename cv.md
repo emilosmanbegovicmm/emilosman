@@ -11,13 +11,12 @@ Skype ID: `live:.cid.308497035adc585a`
 [LinkedIn](https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/)
 
 ### Summary
-**Ruby on Rails and JavaScript developer since 2016.**  
-Working on SPAs and large scale apps that service large user bases.  
-Focused creative problem solver and active participant in meetings and discussions.  
-Working in Agile teams, using best practices.  
-Experience with developing features form initial sketches, all the way to writing tests.  
+Ruby on Rails and JavaScript developer since 2016.  
+Focused creative problem solver.  
+Active participant in discussions.  
+Working on SPAs with large user bases.  
 Fully remote worker.  
-I speak English, Hungarian and Serbian fluently.
+Speaking English, Hungarian and Serbian fluently.
 
 ### Tech skills
 - Vue.js
@@ -45,7 +44,7 @@ I speak English, Hungarian and Serbian fluently.
 `November 2020 - Present`  
 `Sofia, Bulgaria`  
 Full time Rails developer.  
-Taking on senior roles and mentoring junior developers.
+Taking on leadership roles and mentoring junior developers.
 
 #### [Web developer at Sideqik](https://www.sideqik.com/)
 `November 2018 - March 2020`  
