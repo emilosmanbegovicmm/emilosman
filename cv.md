@@ -13,7 +13,7 @@ Skype ID: `live:.cid.308497035adc585a`
 ### Summary
 Ruby on Rails and JavaScript developer since 2016.  
 Focused creative problem solver.  
-Active participant in discussions.  
+Active participant in meetings and discussions.  
 Working on SPAs with large user bases.  
 Fully remote worker.  
 Speaking English, Hungarian and Serbian fluently.
