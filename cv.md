@@ -1,14 +1,7 @@
 ## Ruby on Rails & JavaScript developer
 ![profile picture](/assets/images/profile.jpg)  
-Born in 1992.  
-Residing in Szeged, Hungary.
 
-Email: [hello@emilosman.com](mailto:hello@emilosman.com)  
-GitHub: [emilosman](https://www.github.com/emilosman)  
-Website: [https://emilosman.com](https://emilosman.com)  
-Phone: `+36707924240 / +381693179929`  
-Skype ID: `live:.cid.308497035adc585a`  
-[LinkedIn](https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/)
+Availability: Currently in mission at [Emerald X](https://www.emeraldx.com/) via [MentorMate](https://mentormate.com/)
 
 ### Summary
 Ruby on Rails and JavaScript developer since 2016.  
@@ -71,3 +64,16 @@ Check out some of my [personal projects and experiments](/personal-projects)
 
 #### Other interests
 Drawing, writing, weightlifting.
+
+___
+
+## Want to work together?
+Do not hesitate to get in touch!
+
+Email: [hello@emilosman.com](mailto:hello@emilosman.com)  
+GitHub: [emilosman](https://www.github.com/emilosman)  
+Website: [https://emilosman.com](https://emilosman.com)  
+Phone: `+36707924240 / +381693179929`  
+Skype ID: `live:.cid.308497035adc585a`  
+[LinkedIn](https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/)
+
