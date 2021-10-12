@@ -1,7 +1,7 @@
 ## Ruby on Rails & JavaScript developer
 ![profile picture](/assets/images/profile.jpg)  
 
-Availability: Currently in mission at [Emerald X](https://www.emeraldx.com/) via [MentorMate](https://mentormate.com/)
+Availability: Currently in mission at [EmeraldX](https://www.emeraldx.com/) via [MentorMate](https://mentormate.com/)
 
 ### Summary
 Ruby on Rails and JavaScript developer since 2016.  
