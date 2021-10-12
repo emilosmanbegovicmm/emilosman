@@ -76,4 +76,3 @@ Website: [https://emilosman.com](https://emilosman.com)
 Phone: `+36707924240 / +381693179929`  
 Skype ID: `live:.cid.308497035adc585a`  
 [LinkedIn](https://www.linkedin.com/in/emil-osmanbegovi%C4%87-357579123/)
-
